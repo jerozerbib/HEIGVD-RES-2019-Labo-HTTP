@@ -1,0 +1,22 @@
+{
+  "name": "http-client",
+  "version": "1.0.0",
+  "description": "Implementation of a simple http client",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerozerbib/HEIGVD-RES-2019-Labo-HTTP.git"
+  },
+  "author": "Olivier Koffi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerozerbib/HEIGVD-RES-2019-Labo-HTTP/issues"
+  },
+  "homepage": "https://github.com/jerozerbib/HEIGVD-RES-2019-Labo-HTTP#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
